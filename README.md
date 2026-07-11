@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="build/appicon.png" width="128" />
+  <img src=".github/workflows/appicon.png" width="128" />
 </p>
 
 # GBFR 存档修改工具
